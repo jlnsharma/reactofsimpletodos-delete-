@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.item-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.title {
+  font-size: 18px;
+  color: #000000;
+}
+.btn {
+  background-color: #ffffff;
+  color: #ff0b37;
+  font-size: 13px;
+  font-weight: bold;
+  border-radius: 8px;
+  padding: 8px;
+  border: #ff0b37 solid 1px;
+  cursor: pointer;
+  outline: none;
+}
